@@ -1,7 +1,8 @@
 # raytracer
 
-#2 Example of intersecting objects drawn
+## Example of intersecting objects drawn
 
+### The following input:
 ```
 NEAR 1
 LEFT -1
@@ -19,3 +20,6 @@ BACK 1 1 1
 AMBIENT 0.85 0.85 0.85
 OUTPUT testIntersection.ppm
 ```
+### Produces:
+
+![GitHub Logo](/output/pngs/testIntersection.png)
